@@ -6,8 +6,7 @@
 This project presents a dynamic Power BI dashboard designed to visualize car sales data, transforming raw data into actionable insights. It's an ideal addition to a data analytics portfolio, demonstrating expertise in data processing, visualization, and dashboard creation tailored for the automotive industry.
 
 **Certifications Held**
-Power BI: Integrating AI and Machine Learning
-Data-Driven Decisions with Power BI
+Power BI: Integrating AI and Machine Learning, Data-Driven Decisions with Power BI
 
 **Key Features**
 
