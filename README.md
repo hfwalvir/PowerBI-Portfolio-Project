@@ -19,6 +19,15 @@ Power BI: Integrating AI and Machine Learning, Data-Driven Decisions with Power 
 - **Interactive Elements**: Includes drill-down capabilities, filters, and dynamic reporting for enhanced user interaction.
 
 
+**IT Spend Analysis Dashboard with AI-Driven Insights**
+This repository contains an interactive IT Spend Analysis dashboard, enhanced with AI-powered tools and a variety of visualizations. The dashboard provides a comprehensive breakdown of IT expenditures using a decomposition tree, allowing for in-depth analysis and identification of key cost drivers. Multiple chart types are employed to offer diverse perspectives on spending patterns, enabling more informed decision-making.
+
+**Key Features:**
+
+AI-driven insights to identify trends and anomalies.
+Decomposition tree for detailed expenditure breakdown.
+Interactive dashboards with various chart types (bar, line, pie, etc.) for versatile data visualization.
+
 **Contributing**
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit [CLA](https://cla.microsoft.com).
