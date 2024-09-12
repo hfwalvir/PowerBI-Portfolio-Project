@@ -41,10 +41,15 @@ This project has adopted the Microsoft Open Source Code of Conduct. For more inf
 Welcome to the Personal Income Dashboard project! This Power BI dashboard provides a comprehensive overview of personal financial health by visualizing key metrics such as unpaid debt, total income, and expenses throughout the year.
 Features:
 Unpaid Debt Tracking: Monitor outstanding debts month-by-month to gain insights into financial obligations.
+
 Total Income & Expenses: Visualize your income and expenses using sparklines for quick trend analysis.
+
 Interactive Bar Charts: Analyze income and expense distributions with dynamic bar charts for better understanding.
+
 Donut Chart for Target vs. Income: Compare your financial targets against actual income using an intuitive donut chart.
+
 Clustering: Utilize clustering techniques to categorize expenses and identify spending patterns.
+
 This dashboard is designed to empower users with actionable insights into their financial situation, enabling better decision-making and budgeting strategies.
 
 
