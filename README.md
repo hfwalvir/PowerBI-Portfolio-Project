@@ -1,4 +1,4 @@
-# PowerBI-Portfolio-Project
+# PowerBI-Portfolio-Project 1
 
 
 **Overview**
@@ -18,7 +18,7 @@ Power BI: Integrating AI and Machine Learning, Data-Driven Decisions with Power 
 - **Sales Trend**: Visualizes sales trends over time, identifying patterns and growth trajectories.
 - **Interactive Elements**: Includes drill-down capabilities, filters, and dynamic reporting for enhanced user interaction.
 
-
+# PowerBI-Portfolio-Project 2
 **IT Spend Analysis Dashboard with AI-Driven Insights**
 This repository contains an interactive IT Spend Analysis dashboard, enhanced with AI-powered tools and a variety of visualizations. The dashboard provides a comprehensive breakdown of IT expenditures using a decomposition tree, allowing for in-depth analysis and identification of key cost drivers. Multiple chart types are employed to offer diverse perspectives on spending patterns, enabling more informed decision-making.
 
