@@ -36,7 +36,7 @@ When you submit a pull request, a CLA-bot will automatically determine whether y
 
 This project has adopted the Microsoft Open Source Code of Conduct. For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# PowerBI-Portfolio-Project 2
+# PowerBI-Portfolio-Project 3
 **Personal Income Dashboard**
 Welcome to the Personal Income Dashboard project! This Power BI dashboard provides a comprehensive overview of personal financial health by visualizing key metrics such as unpaid debt, total income, and expenses throughout the year.
 Features:
