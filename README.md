@@ -36,6 +36,19 @@ When you submit a pull request, a CLA-bot will automatically determine whether y
 
 This project has adopted the Microsoft Open Source Code of Conduct. For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+# PowerBI-Portfolio-Project 2
+**Personal Income Dashboard**
+Welcome to the Personal Income Dashboard project! This Power BI dashboard provides a comprehensive overview of personal financial health by visualizing key metrics such as unpaid debt, total income, and expenses throughout the year.
+Features:
+Unpaid Debt Tracking: Monitor outstanding debts month-by-month to gain insights into financial obligations.
+Total Income & Expenses: Visualize your income and expenses using sparklines for quick trend analysis.
+Interactive Bar Charts: Analyze income and expense distributions with dynamic bar charts for better understanding.
+Donut Chart for Target vs. Income: Compare your financial targets against actual income using an intuitive donut chart.
+Clustering: Utilize clustering techniques to categorize expenses and identify spending patterns.
+This dashboard is designed to empower users with actionable insights into their financial situation, enabling better decision-making and budgeting strategies.
+
+
+
 **Data/Telemetry**
 
 This project collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://privacy.microsoft.com/privacystatement) to learn more.
@@ -46,4 +59,5 @@ To disable telemetry within Power BI Desktop, do the following:
 1. Select **File > Options and settings > Options**.
 2. Within the Options dialog, select **Usage Data** and then uncheck **Help improve Power BI Desktop by sending usage information to Microsoft**.
 3. Select **Ok**.
+
 
