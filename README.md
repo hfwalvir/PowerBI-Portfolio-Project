@@ -52,7 +52,17 @@ Clustering: Utilize clustering techniques to categorize expenses and identify sp
 
 This dashboard is designed to empower users with actionable insights into their financial situation, enabling better decision-making and budgeting strategies.
 
+# PowerBI-Portfolio-Project 4
+**Colorado Boomerangs Global Performance Report**
 
+This project highlights my usage of Power BI, Power Query, and Power Pivot to create an insightful sales performance dashboard for "Colorado Boomerangs." The dashboard provides a comprehensive view of regional sales trends, product performance, and sales representative contributions, with a focus on clarity and actionable insights.
+
+Key steps in the process included:
+
+Data Preparation: Power Query was utilized to clean and transform the raw dataset, ensuring accuracy and consistency for analysis.
+Data Modeling: Power Pivot was employed to establish relationships between multiple tables, enabling seamless integration and robust data analysis.
+Visual Representation: Interactive visualizations were crafted in Power BI to showcase total sales, transaction volumes, and performance breakdowns by region, product, and sales representatives.
+The final dashboard is designed to support decision-making by presenting key metrics such as total sales ($30.7M) and enabling detailed comparisons across different dimensions.
 
 **Data/Telemetry**
 
