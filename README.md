@@ -64,6 +64,21 @@ Data Modeling: Power Pivot was employed to establish relationships between multi
 Visual Representation: Interactive visualizations were crafted in Power BI to showcase total sales, transaction volumes, and performance breakdowns by region, product, and sales representatives.
 The final dashboard is designed to support decision-making by presenting key metrics such as total sales ($30.7M) and enabling detailed comparisons across different dimensions.
 
+
+# PowerBI-Portfolio-Project 4
+**📊 Financial Analysis Dashboard – Festman**
+Overview
+This Financial Analysis Dashboard provides key insights into profit margins, sales performance, discounts, and overall profitability KPIs for Festman. The dashboard is designed using Power BI, incorporating advanced DAX formulas, custom themes, and conditional formatting to enhance data visualization and usability.
+
+🔹 Features
+✅ Profitability Insights – Track profit margins, sales trends, and discounts across different time periods.
+✅ Dynamic KPI Metrics – Monitor critical performance indicators such as net profit, sales growth, and discount impact.
+✅ Year-over-Year Analysis – Visualize sales and profit trends over multiple years.
+✅ Custom Themes & Backgrounds – Enhanced aesthetics using customized shapes, colors, and backgrounds.
+✅ Interactive Charts & Graphs – Intuitive visual representation of key financial data.
+✅ Advanced DAX Calculations – Used for dynamic aggregations, percentage changes, and filtering logic.
+✅ Conditional Formatting – Highlight key variances, trends, and outliers for better decision-making.
+
 **Data/Telemetry**
 
 This project collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://privacy.microsoft.com/privacystatement) to learn more.
